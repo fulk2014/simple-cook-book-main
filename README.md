@@ -4,7 +4,6 @@
 ![image](https://github.com/user-attachments/assets/b3331fc0-e2cc-49d4-be81-9a23e63931c4)
 ## 2. ระบุว่า จะแก้ไขตรงไหนบ้าง เพื่ออะไร 
 - ### 1.ไปที่ idf.py menuconfig ที่ example config ตั้งค่า WiFi SSID/password
-![image](https://github.com/user-attachments/assets/129ddfdf-d474-44cc-b5ab-d25c09483d6b)
 - ### 2. เพิ่มโค้ด 
 ```
 //1 บรรทัด 25
